@@ -1,2 +1,2 @@
-# InsertSmiley-plugin
-InsertSmiley NoteFly plugin.
+# InsertSmiley
+The InsertSmiley NoteFly plugin.
